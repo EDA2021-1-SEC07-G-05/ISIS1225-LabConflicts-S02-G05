@@ -77,7 +77,7 @@ while True:
         books = loadBooks()
         print('Total de libros cargados: ' + str(lt.size(books)))
 
-        # TO-DO: Modificación de Est-1 en el Lab 2
+        print('3- Cargar Book-Tags!')
 
 
         # TO-DO: Modificación de Est-2 en el Lab 2
